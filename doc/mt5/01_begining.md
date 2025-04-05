@@ -43,4 +43,7 @@ forex  科技类资产管理公司，hudge fund公司， 类似two sigma
 
 algolee ： 【新手向】2分钟生成一个RSI的自动交易程序 ： https://www.bilibili.com/video/BV1EJ4m187Pj/?spm_id_from=333.880.my_history.page.click
 
+书：
+https://www.mql5.com/zh/book/intro
+
 
