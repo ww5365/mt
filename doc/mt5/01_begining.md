@@ -11,6 +11,10 @@ XM FX 官网：
 https://www.xmcnbroker.direct/cn/platforms
 
 ICMarksSC ： https://www.icibw.com/
+IC Markets global:
+https://www.icmarkets.com/global/cn/
+
+
 
 
 ## 他山之石
