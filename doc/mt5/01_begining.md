@@ -37,6 +37,11 @@ forex 交易策略提供商，跟单服务提供商
 
 forex  科技类资产管理公司，hudge fund公司， 类似two sigma
 
+
+渡边太太：
+
+
+## 头脑风暴
 产品需求： 
 * 听懂人话，告诉他到达2319点位，帮我平仓掉所有的sell单。
 
@@ -55,9 +60,29 @@ forex  科技类资产管理公司，hudge fund公司， 类似two sigma
 - [deepseek写mt5量化交易](https://www.bilibili.com/video/BV1BtXRYoEZT/?spm_id_from=333.1387.upload.video_card.click&vd_source=ff1d5f0f1a1b50dc5fc0b20e64d1bba6)
 
 
-
-
 书：
 https://www.mql5.com/zh/book/intro
+
+## 基础
+
+需要怎样的基本知识，技术，心态，才能在黄金，外汇市场获取到稳定的盈利 ?
+
+轻仓 ： 保住本金
+时机，不频繁操作 ：像鳄鱼一样，静候，静候，静候，等待， 时机到了，也需要咬一口
+
+止损：不抗单，什么情况下进行止损？亏损是常态
+
+止盈： 留住自己成果
+
+入场： 那什么时候才到了合适的入场时机呢？
+
+
+套利： ？
+
+阿尔法：
+
+beta：
+
+回撤：
 
 
