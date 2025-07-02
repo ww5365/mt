@@ -10,12 +10,15 @@ https://www.fxtop50.com/xm/
 XM FX 官网：
 https://www.xmcnbroker.direct/cn/platforms
 
+https://www.xmforexcn.website/cn/mt5
+
+
 ICMarksSC ： https://www.icibw.com/
 IC Markets global:
 https://www.icmarkets.com/global/cn/
 
 
-
+tradeMax Global : ?
 
 ## 他山之石
 
@@ -60,4 +63,10 @@ forex  科技类资产管理公司，hudge fund公司， 类似two sigma
 书：
 https://www.mql5.com/zh/book/intro
 
+## 路径
+
+结合现有项目和能力，代码
+
+1. C++ mql5
+2. 大模型 策略 交易策略
 
