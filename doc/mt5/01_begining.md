@@ -20,6 +20,10 @@ https://www.icmarkets.com/global/cn/
 
 tradeMax Global : ?
 
+## 个人交易者-量化交易平台化路径
+
+Python (Backtrader + MetaTrader5 API) → 单机策略 → 日志与风控监控 → 实盘交易账户
+
 ## 他山之石
 
 two sigma：从18年前进入量化投资领域，主要投资于公开市场产品，股票、商品、外汇等。如今，共管理600亿美元资产。它正试图进入私募投资领域，希望能够像18年前进入公开市场一样重塑私募投资市场。
