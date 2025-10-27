@@ -30,8 +30,7 @@ Python (Backtrader + MetaTrader5 API) → 单机策略 → 日志与风控监控
 
 Vectorbt
 
-![Uploading image.png…]()
-
+<img width="1042" height="518" alt="image" src="https://github.com/user-attachments/assets/af5b317d-b23c-45b7-ac3d-c5f79e746bb2" />
 
 
 ## 他山之石
