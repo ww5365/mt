@@ -28,6 +28,11 @@ Python (Backtrader + MetaTrader5 API) → 单机策略 → 日志与风控监控
 
 使用 RLlib / TensorTrade，基于强化学习控制买卖信号。
 
+Vectorbt
+
+![Uploading image.png…]()
+
+
 
 ## 他山之石
 
