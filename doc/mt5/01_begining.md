@@ -33,6 +33,14 @@ Vectorbt
 <img width="1042" height="518" alt="image" src="https://github.com/user-attachments/assets/af5b317d-b23c-45b7-ac3d-c5f79e746bb2" />
 
 
+问题：gpt： mt5的EA策略，使用Vectorbt产出的信息，这种架构是否可以，怎么设计 ？
+
+这种“Python 研究层 + MT5 执行层” 的混合架构是机构和高级个人交易者常用的方式之
+使用 vectorbt 做策略研究和信号生成，
+由 MT5 的 EA（Expert Advisor）负责实盘执行。
+
+<img width="993" height="811" alt="image" src="https://github.com/user-attachments/assets/8ee3a900-ed4f-402b-9ae8-3796b710ee13" />
+
 ## 他山之石
 
 two sigma：从18年前进入量化投资领域，主要投资于公开市场产品，股票、商品、外汇等。如今，共管理600亿美元资产。它正试图进入私募投资领域，希望能够像18年前进入公开市场一样重塑私募投资市场。
