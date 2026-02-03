@@ -1,7 +1,8 @@
 
 # 《面向交易员的编程指南》
 
-这本书资源网址：
+这本书资源网址：?
+demo源码示例：？
 
 
 mt5:
@@ -13,7 +14,8 @@ mt5:
 
 mq5 : 源文件
 mqh : 头文件
-ex5： 编译可执行文件#
+ex5： 编译可执行文件
+
 
 ### 1.2
 
@@ -24,26 +26,28 @@ MQL5\Scripts\MQL5Book\p1\Hello.mq5
 
 第一章总结
 
-1. scripts为例，最重要的是知道.mq5 怎么编译，debug， 关键是怎么执行  
+1. scripts为例，最重要的是知道.mq5 怎么编译，debug， 关键是怎么执行
+
 2. 输入和输出
+
+- 输入
+  - input ： 修饰的输入变量，在用户输入界面呈现，可以设置特定的输入值 全局变量
+
 - 三种数据输出方式：Print Comment  Alert
-- input 
+  - Print ： 显示在日志栏中
+  - Comment ： 显示在图表的左上角，用法和Print类似
+  ```commandline
+    for( ; /*!IsStopped()*/; )  // 什么时候终止程序？右键点击黄色小标，移除
+    {
+        Comment(GetTickCount());  // 左上角打印tickcount  
+        Sleep(1000);
 
-
-Comment 输入
-
-```commandline
-   for( ; /*!IsStopped()*/; )  // 什么时候终止程序？右键点击黄色小标，移除
-   {
-      Comment(GetTickCount());  // 左上角打印tickcount  
-      Sleep(1000);
-
-      // exit upon user request to remove the script
-      // 'Abnormal termination' after 3 seconds of graceful timeout
-   }
-```
-![img.png](../../pic/part2-02.png)
-
+        // exit upon user request to remove the script
+        // 'Abnormal termination' after 3 seconds of graceful timeout
+    }
+  ```
+    ![img.png](../../pic/part2-02.png)
+  - Alert ： 弹出独立的窗口，显示提示信息，主要告警使用
 
 
 
