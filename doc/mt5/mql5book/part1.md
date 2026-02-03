@@ -31,7 +31,8 @@ MQL5\Scripts\MQL5Book\p1\Hello.mq5
 2. 输入和输出
 
 - 输入
-  - input ： 修饰的输入变量，在用户输入界面呈现，可以设置特定的输入值 全局变量
+  - input ： 修饰的输入变量，在变量在程序内部和MQL5程序属性对话框的用户界面中可见。全局变量。
+    需要宏定义： #property script_show_inputs    才能打开对话窗的界面
 
 - 三种数据输出方式：Print Comment  Alert
   - Print ： 显示在日志栏中
