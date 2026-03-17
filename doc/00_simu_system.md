@@ -1,1 +1,10 @@
 
+帮我在https://github.com/上找一下评价高的开源项目，私募用MT5做执行的，有策略，风控的量化交易系统。
+
+回答：https://chatgpt.com/s/t_69b926b9f5a0819199a3fcf4d6f63d83
+
+MT5-Python-Trading（骨架）: https://github.com/ntungufhadzeni/MT5-Python-Trading/tree/main
+
+metaapi-risk-management（风控）: https://github.com/metaapi/metaapi-risk-management-python-sdk
+
+algorithmic_trading_bot（执行）: https://github.com/jimtin/algorithmic_trading_bot
