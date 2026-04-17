@@ -8,3 +8,8 @@ MT5-Python-Trading（骨架）: https://github.com/ntungufhadzeni/MT5-Python-Tra
 metaapi-risk-management（风控）: https://github.com/metaapi/metaapi-risk-management-python-sdk
 
 algorithmic_trading_bot（执行）: https://github.com/jimtin/algorithmic_trading_bot
+
+
+https://github.com/TheSnowGuru/PyTrader-python-mt4-mt5-trading-api-connector-drag-n-drop
+
+https://github.com/ntungufhadzeni/MT5-Python-Trading
