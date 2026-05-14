@@ -18,3 +18,8 @@ https://github.com/ntungufhadzeni/MT5-Python-Trading
 
 ## 20260514
 https://gitee.com/xszyou/easy-deal
+
+使用MQL5和Python集成经纪商API与智能交易系统 ： https://www.mql5.com/zh/articles/16012
+
+
+QuantDinger: https://github.com/brokermr810/QuantDinger
