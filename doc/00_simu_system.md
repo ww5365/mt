@@ -13,3 +13,8 @@ algorithmic_trading_bot（执行）: https://github.com/jimtin/algorithmic_tradi
 https://github.com/TheSnowGuru/PyTrader-python-mt4-mt5-trading-api-connector-drag-n-drop
 
 https://github.com/ntungufhadzeni/MT5-Python-Trading
+
+
+
+## 20260514
+https://gitee.com/xszyou/easy-deal
