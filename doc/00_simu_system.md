@@ -24,5 +24,9 @@ https://gitee.com/xszyou/easy-deal
 
 QuantDinger: https://github.com/brokermr810/QuantDinger
 
-比较：quantDinger  ai-trader
+比较：quantDinger  ai-trader  
 https://gitcode.csdn.net/69f036c354b52172bc707756.html
+https://x.com/huoshan007/status/2046904745722544247
+
+
+从零搭建量化系统：如何用VNPY+MT5构建跨市场交易机器人（2024实战版）： https://blog.csdn.net/CAT789/article/details/152387267
