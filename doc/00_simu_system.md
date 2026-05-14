@@ -23,3 +23,6 @@ https://gitee.com/xszyou/easy-deal
 
 
 QuantDinger: https://github.com/brokermr810/QuantDinger
+
+比较：quantDinger  ai-trader
+https://gitcode.csdn.net/69f036c354b52172bc707756.html
