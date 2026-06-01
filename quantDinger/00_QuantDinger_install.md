@@ -2,7 +2,7 @@
 
 ## 安装参考
 
-
+https://github.com/brokermr810/QuantDinger/blob/main/docs/README_CN.md
 
 
 ### docker 安装
@@ -14,3 +14,4 @@
 随机字符串（例如 64个十六进制数），git bash中运行： 生成 64 个十六进制字符（相当于 32 字节 = 256 位）
 echo "SECRET_KEY=$(openssl rand -hex 32)" 
 
+### 
