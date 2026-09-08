@@ -61,7 +61,7 @@ docker compose up -d # 根据当前目录下的 docker-compose.yml 文件，创�
 ```
 
 
-### 1.3 windows上安装
+### 1.3 windows上安装quantDinger
 
 
 #### 1.3.1 安装命令
