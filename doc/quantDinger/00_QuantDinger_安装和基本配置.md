@@ -1,7 +1,8 @@
 
 
-## 一、安装参考
+## 一、docker和 QuantDinger安装
 
+qantDinger参考：
 https://github.com/brokermr810/QuantDinger/blob/main/docs/README_CN.md
 
 
@@ -156,4 +157,8 @@ docker compose -f docker-compose.yml pull; docker compose -f docker-compose.yml 
 2.配置和数据不会丢失：因为数据库（Postgres）和 Redis 的数据存储在 Docker 的数据卷（Volume）中，独立于容器本身，所以重启后你之前设置的账号、策略数据都在。
 3.访问地址不变：依然是 http://localhost:8888。
 
-```
+
+
+## 
+
+
