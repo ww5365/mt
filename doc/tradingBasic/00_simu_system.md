@@ -51,3 +51,5 @@ Python 技术栈，比较适合自己开发 CTA、趋势、套利、多因子等
 有官方/社区维护的 MT5 Gateway。
 MT5 Gateway 基于 MT5 + ZeroMQ 通讯，可以连接 MT5 的模拟盘和真实账户。
 支持的 MT5 品种包括 外汇、CFD、期货、股票等。
+
+https://cloud.tencent.com/developer/article/2660564   quantdinger的使用
